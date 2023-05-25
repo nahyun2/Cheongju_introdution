@@ -1,11 +1,11 @@
 # Site settings
-title: 강학도
-email: ksb040130@naver.com
+title: 청주 문별관측대
+email: chlskgus789@naver.com
 url: https://study-helper-liveclass.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
-skills: "어서와 너희의 공부를 책임질 강력한 학습 도우미야"
-meta_author: 강학도
+skills: "어서와 우리와 청주의 곳곳을 탐방하자"
+meta_author: 청주 문별관측대
 
 # Google webmaster tools
 google_verify:
@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: 강학도
+  copyright: 청주 문별관측대
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 # social:
